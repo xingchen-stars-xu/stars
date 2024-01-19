@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xingchen-stars-xu"
+  #github           : "https://github.com/xingchen-stars-xu"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   #steam            :
   #tumblr           :
-  twitter          : "https://twitter.com/xu_stars"
+  twitter(X)        : "https://twitter.com/xu_stars"
   vine             :
   weibo            :
   xing             :
